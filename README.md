@@ -1,3 +1,3 @@
 #### Papers
 
-A collection of computer science-related papers.
+A collection of papers relating to topics in software development and computer science.
